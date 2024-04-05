@@ -43,6 +43,7 @@ Your server should now be running at http://locahost:3001 and you will now have 
 
 # Doc
 
+document de l'api swagger
 http://localhost:3001/api-docs
 
 ## Populated Database Data
